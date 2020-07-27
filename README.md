@@ -1,3 +1,7 @@
+### OUTPUT
+
+<img width="1440" alt="Screenshot 2020-07-27 at 17 25 44" src="https://user-images.githubusercontent.com/61393954/88556818-1d7e9a80-d032-11ea-8832-258a35fff47d.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
